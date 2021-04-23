@@ -1,0 +1,7 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    // En este caso, guarda los js en la misma carpeta 
+    //"outDir": "../js/modulo2", 
+  }
+}
